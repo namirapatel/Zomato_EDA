@@ -1,6 +1,6 @@
 # Zomato_EDA
 
-This EDA helps anyone who wants to open a restaurant in Bangalore
+This EDA helps anyone who wants to open a restaurant in Bangalore and is confused between the restaurant type, variety of cuisines, location etc
 
 Steps involved in the EDA:
 1. Importing Libraries
